@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "GATE-MST-2026-14.slnx",
+    "dotnet.defaultSolution": "GATE-14.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
